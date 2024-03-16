@@ -7,33 +7,33 @@
    <div class = "flex flex-col items-center justify-center flex-grow w-2/3">
     <a href = "./case1">    
     <figure style="--c:#fff5">
-        <img src="solution.jpg" width = 420 alt="Mountains">
+        <img src="solution1.jpg" width = 420 alt="Mountains">
             <figcaption>Try It Out</figcaption>
         </figure>
    
     </a>
-    <Card data = {"Case 1"} title = {"Test"}/>
+    <Card data = {"Upload images of any area over a period of time and this model will analyse the Deforestation percentages over a period of time"} title = {"Analysis"}/>
     </div>
 
 
    <div class = "flex flex-col items-center justify-center flex-grow w-2/3">
     <a href = "./case2">
         <figure style="--c:#fff5">
-           <img src="/treelayer.jpg" alt="Mountains"  width=500 >
+           <img src="/types.jpg" alt="Mountains"  width=430 >
             <figcaption>Try it out</figcaption>
         </figure>
     </a>
-    <Card data = {"Case 2"} title = {"Test"}/>
+    <Card data = {"Upload images of an area and our model will determine the type of deforestation"} title = {"Types of Deforestation"}/>
 </div>
 <div class = "flex flex-col items-center justify-center flex-grow w-2/3">
-    <a href = "/about">    
+    <a href = "/fromOurEnd">    
     <figure style="--c:#fff5">
-           <img src="solution.jpg" width = 420 alt="Mountains">
-            <figcaption>Learn More</figcaption>
+           <img src="plant.jpg" width = 550 alt="Mountains">
+            <figcaption>How you can help?</figcaption>
         </figure>
    
     </a>
-    <Card data = {"Imp Stuff"} title = {"Test"}/>
+    <Card data = {"What all can be done on your behalf for the welfare of our nature"} title = {"Your Support"}/>
     </div>
 
 </div>

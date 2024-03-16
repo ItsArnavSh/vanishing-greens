@@ -21,10 +21,6 @@ margin-top:10px ;
  transition: 0.5s ease-out;
  overflow: visible;
 }
-.card:hover
-{
-    width:600px;
-}
 
 .card-details {
  color: black;

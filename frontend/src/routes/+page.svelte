@@ -27,7 +27,7 @@
 #text
 {
     position: absolute;
-    font-size: 5em;
+    font-size: 10em;
 }
 .parallax img
 {

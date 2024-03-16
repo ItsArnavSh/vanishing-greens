@@ -3,7 +3,7 @@ from flask_cors import CORS
 import os
 import subprocess
 import shutil
-
+import time
 app = Flask(__name__)
 CORS(app)
 
@@ -35,7 +35,7 @@ def run_script():
     subprocess.run(['python3', 'amazon.py'])
     #subprocess.run(['python3', 'clear.py'])
     subprocess.run(['python3', 'delete.py'])
-    subprocess.run(['python3', 'delete.py'])
+    time.sleep(1)
     return 'Script executed'
 
 if __name__ == '__main__':

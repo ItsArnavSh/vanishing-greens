@@ -25,9 +25,9 @@
           <img src = "torch-minecraft.gif" alt = "Turn light off" width="29" class = "m-0">
           {/if}
           </button>
-        <a class = "text-2xl flex items-center dark:text-white" href="/solutions">Solutions</a>
-        <a class = "text-2xl flex items-center dark:text-white" href="/fromOurEnd">From our End</a>
-        <a href="/about" class="text-2xl bg-green-400 text-white rounded-md p-5 h-12 mt-12 leading-10 hover:bg-green-500 transi duration-200 flex items-center">About</a>
+        <a class = "text-4xl flex items-center dark:text-white buda" href="/solutions">Solutions</a>
+        <a class = "text-4xl flex items-center dark:text-white buda" href="/fromOurEnd">Our Mission</a>
+        <a href="/about" class=" buda text-3xl bg-green-600 dark:bg-blue-100 dark:text-black dark:hover:bg-blue-200 text-white rounded-md p-5 h-12 mt-12 leading-10 hover:bg-green-500 transi duration-200 flex items-center">About</a>
       </span>
 
     </nav>
